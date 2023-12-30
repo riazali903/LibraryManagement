@@ -48,7 +48,6 @@ print(Library.__mro__)
 mem = Member('Riaz','900')
 b1 = Book('Atomic Habits','Koemne','IS2345223')
 b2 = Book('Good', 'Ali','isbn-----')
-b3 = Book('poor habits','Zagh','isbn-----')
 
 lib = Library('Ali',500)
 lib.add_book()
